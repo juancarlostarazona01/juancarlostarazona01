@@ -12,6 +12,7 @@
   
 - 📫 How to reach me https://www.linkedin.com/in/juan-carlos-tarazona-contreras/
 
+<h2 align="center">🛠 Skills</h2>
 
 <!---
 juancarlostarazona01/juancarlostarazona01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
