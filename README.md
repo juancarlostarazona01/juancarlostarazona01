@@ -43,12 +43,23 @@
 <img src="https://pbs.twimg.com/media/Dp3nCCdXgAEIMxM.png" width="300" alt="sql Png Clipart"></a>
 <img src="https://miro.medium.com/v2/resize:fit:1358/1*0LS0sRb2kjHtIIWtKAt-iw.png" width="200" alt="sql Png Clipart"></a>
 <img src="https://1000logos.net/wp-content/uploads/2023/04/Git-logo.png" width="200" alt="sql Png Clipart"></a>
-<img src="https://i.pinimg.com/originals/92/f3/b1/92f3b1027e70a29b31627616b5e9e4df.png" width="200" alt="sql Png Clipart"></a>
-<img src="https://www.iri.com/blog/wp-content/uploads/2012/06/eclipse-logo.png" width="200" alt="sql Png Clipart"></a>
-<img src="https://avatars.githubusercontent.com/u/30841581?s=280&v=4" width="100" alt="sql Png Clipart"></a>
+<img src="https://i.pinimg.com/originals/92/f3/b1/92f3b1027e70a29b31627616b5e9e4df.png" width="170" alt="sql Png Clipart"></a>
+<img src="https://www.iri.com/blog/wp-content/uploads/2012/06/eclipse-logo.png" width="170" alt="sql Png Clipart"></a>
+<img src="https://avatars.githubusercontent.com/u/30841581?s=280&v=4" width="80" alt="sql Png Clipart"></a>
 <img src="https://anchor-u.com/wp-content/uploads/2022/08/metasploit.png" width="300" alt="sql Png Clipart"></a>
-
+<br/>
+<img src="https://globalaihub.com/wp-content/uploads/2022/03/Google-Colab-Logo-1.png" width="200" alt="sql Png Clipart"></a>
+<img src="https://assets-global.website-files.com/5f217a8e6bc2c82a9d803089/5f307245e806c6fc594a8fdd_DeepNote_August%202020-01.png" width="300" alt="sql Png Clipart"></a>
+<img src="https://anturis.com/wp-content/uploads/2022/09/StarUML-Logo-1.png" width="100" alt="sql Png Clipart"></a>
 </p>
+
+<h2 align="center">☁ Cloud & DB</h2>
+
+<p align="center">
+<img src="https://logohistory.net/wp-content/uploads/2023/06/AWS-Emblem.png" width="200" alt="sql Png Clipart"></a>
+<img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="200" alt="sql Png Clipart"></a>
+</p>
+
 <!---
 juancarlostarazona01/juancarlostarazona01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
