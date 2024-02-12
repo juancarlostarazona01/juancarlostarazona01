@@ -31,33 +31,38 @@
 <h2 align="center">📚 Libraries</h2>
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="200" alt="sql Png Clipart"></a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="200" alt="sql Png Clipart"></a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="200" alt="sql Png Clipart"></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="200" alt="numpy Png Clipart"></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="200" alt="pandas Png Clipart"></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="200" alt="scikit learn Png Clipart"></a>
 </p>
 
 <h2 align="center">🖥 Softwares</h2>
 
 <p align="center">
-<img src="https://1000logos.net/wp-content/uploads/2023/04/Ubuntu-logo.png" width="200" alt="sql Png Clipart"></a>
-<img src="https://pbs.twimg.com/media/Dp3nCCdXgAEIMxM.png" width="300" alt="sql Png Clipart"></a>
-<img src="https://miro.medium.com/v2/resize:fit:1358/1*0LS0sRb2kjHtIIWtKAt-iw.png" width="200" alt="sql Png Clipart"></a>
-<img src="https://1000logos.net/wp-content/uploads/2023/04/Git-logo.png" width="200" alt="sql Png Clipart"></a>
-<img src="https://i.pinimg.com/originals/92/f3/b1/92f3b1027e70a29b31627616b5e9e4df.png" width="170" alt="sql Png Clipart"></a>
-<img src="https://www.iri.com/blog/wp-content/uploads/2012/06/eclipse-logo.png" width="170" alt="sql Png Clipart"></a>
-<img src="https://avatars.githubusercontent.com/u/30841581?s=280&v=4" width="80" alt="sql Png Clipart"></a>
-<img src="https://anchor-u.com/wp-content/uploads/2022/08/metasploit.png" width="300" alt="sql Png Clipart"></a>
+<img src="https://1000logos.net/wp-content/uploads/2023/04/Ubuntu-logo.png" width="200" alt="ubuntu Png Clipart"></a>
+<img src="https://pbs.twimg.com/media/Dp3nCCdXgAEIMxM.png" width="300" alt="netbeans Png Clipart"></a>
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*0LS0sRb2kjHtIIWtKAt-iw.png" width="200" alt="vsc Png Clipart"></a>
+<img src="https://1000logos.net/wp-content/uploads/2023/04/Git-logo.png" width="200" alt="git Png Clipart"></a>
+<img src="https://i.pinimg.com/originals/92/f3/b1/92f3b1027e70a29b31627616b5e9e4df.png" width="170" alt="kali Png Clipart"></a>
+<img src="https://www.iri.com/blog/wp-content/uploads/2012/06/eclipse-logo.png" width="170" alt="eclipse Png Clipart"></a>
+<img src="https://avatars.githubusercontent.com/u/30841581?s=280&v=4" width="80" alt="qt creator Png Clipart"></a>
+<img src="https://anchor-u.com/wp-content/uploads/2022/08/metasploit.png" width="300" alt="metasploit Png Clipart"></a>
 <br/>
-<img src="https://globalaihub.com/wp-content/uploads/2022/03/Google-Colab-Logo-1.png" width="200" alt="sql Png Clipart"></a>
-<img src="https://assets-global.website-files.com/5f217a8e6bc2c82a9d803089/5f307245e806c6fc594a8fdd_DeepNote_August%202020-01.png" width="300" alt="sql Png Clipart"></a>
-<img src="https://anturis.com/wp-content/uploads/2022/09/StarUML-Logo-1.png" width="100" alt="sql Png Clipart"></a>
+<img src="https://globalaihub.com/wp-content/uploads/2022/03/Google-Colab-Logo-1.png" width="200" alt="colab Png Clipart"></a>
+<img src="https://assets-global.website-files.com/5f217a8e6bc2c82a9d803089/5f307245e806c6fc594a8fdd_DeepNote_August%202020-01.png" width="300" alt="deepnote Png Clipart"></a>
+<img src="https://anturis.com/wp-content/uploads/2022/09/StarUML-Logo-1.png" width="80" alt="starUML Png Clipart"></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" width="80" alt="word Png Clipart"></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" width="80" alt="powerpoint Png Clipart"></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="80" alt="excel Png Clipart"></a>
+
+
 </p>
 
 <h2 align="center">☁ Cloud & DB</h2>
 
 <p align="center">
-<img src="https://logohistory.net/wp-content/uploads/2023/06/AWS-Emblem.png" width="200" alt="sql Png Clipart"></a>
-<img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="200" alt="sql Png Clipart"></a>
+<img src="https://logohistory.net/wp-content/uploads/2023/06/AWS-Emblem.png" width="200" alt="aws Png Clipart"></a>
+<img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="200" alt="mySQL Png Clipart"></a>
 </p>
 
 <!---
