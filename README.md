@@ -65,6 +65,7 @@
 <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="200" alt="mySQL Png Clipart"></a>
 </p>
 
+<h2 align="center">Below are some of my featured projects</h2>
 <!---
 juancarlostarazona01/juancarlostarazona01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
