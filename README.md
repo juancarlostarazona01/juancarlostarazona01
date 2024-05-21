@@ -48,7 +48,7 @@
 <img src="https://avatars.githubusercontent.com/u/30841581?s=280&v=4" width="80" alt="qt creator Png Clipart"></a>
 <img src="https://anchor-u.com/wp-content/uploads/2022/08/metasploit.png" width="300" alt="metasploit Png Clipart"></a>
 <br/>
-<img src="https://globalaihub.com/wp-content/uploads/2022/03/Google-Colab-Logo-1.png" width="200" alt="colab Png Clipart"></a>
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="100" alt="colab Png Clipart"></a>
 <img src="https://assets-global.website-files.com/5f217a8e6bc2c82a9d803089/5f307245e806c6fc594a8fdd_DeepNote_August%202020-01.png" width="300" alt="deepnote Png Clipart"></a>
 <img src="https://anturis.com/wp-content/uploads/2022/09/StarUML-Logo-1.png" width="80" alt="starUML Png Clipart"></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" width="80" alt="word Png Clipart"></a>
